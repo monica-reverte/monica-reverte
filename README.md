@@ -8,7 +8,10 @@
   
   ### Find me 
   
-  <a>"https://www.linkedin.com/in/monica-reverte/" </a>
+  <a>https://www.linkedin.com/in/monica-reverte/ </a>
+  
+  ---
+  
   
 <div align="left">
   <h3>Languagues and Technologies</h3>

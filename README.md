@@ -1,17 +1,20 @@
 <div align="center">
   <img src="https://pbs.twimg.com/media/FdFdU0LXgAEDemN.png" width="300" />
-  <h1 align="center">Hi there 👋, I'm Monica</h1>
-  <h3 align="center">A passionate full stack, front end oriented developer. I'm eager to learn new technologies and improve my tech skills.<h3>
+  <h1 align="left">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Monica</h1>
+  <h3 align="left">A passionate full stack, front end oriented developer. I'm eager to learn new technologies and improve my tech skills.<h3>
 <div>
 
   ---
   
-  ### Find me 
   
-  <a>https://www.linkedin.com/in/monica-reverte/ </a>
   
-  ---
-  
+  <div align="left">
+    <h3 align="left">Find me <h3>
+    <p>📫 monicareverte24@gmail.com</p><br>
+    <a href="https://www.linkedin.com/in/monica-reverte"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
+  </div>
+ 
+ --- 
   
 <div align="left">
   <h3>Languagues and Technologies</h3>

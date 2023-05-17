@@ -6,6 +6,21 @@
 
   ---
   
+  <div align="left">
+    <h3>Last projects</h3>
+   
+   *  Spop (Spotify Clone) 
+       * [front-end](https://github.com/EdgarArcos/Spop-Spotify-)
+       * [back-end](https://github.com/EdgarArcos/Spop-Spotify-Backend)
+   *  WishList (todo-list)
+       * [front-end](https://github.com/monica-reverte/reactjs-wish-list) 
+       * [back-end](https://github.com/monica-reverte/wish-list-backend) 
+    *  Foodicious (Project to participate JOBarcelona Hackathon)
+       * [front-end](https://github.com/monica-reverte/foodicious) 
+
+    
+  </div>
+  
   
   
   <div align="left">

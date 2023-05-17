@@ -15,7 +15,7 @@
    *  WishList (todo-list)
        * [front-end](https://github.com/monica-reverte/reactjs-wish-list) 
        * [back-end](https://github.com/monica-reverte/wish-list-backend)     
-    *  Foodicious (Project to participate JOBarcelona Hackathon)
+   *  Foodicious (Project to participate JOBarcelona Hackathon)
        - [front-end](https://github.com/monica-reverte/foodicious) 
 
     

@@ -24,14 +24,6 @@
   ---
   
   
-  <div align="left">
-    <h3 align="left">Find me <h3>
-    <p>📫 monicareverte24@gmail.com</p><br>
-    <a href="https://www.linkedin.com/in/monica-reverte"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
-  </div>
- 
- --- 
-  
 <div align="left">
   <h3>Languagues and Technologies</h3>
   <div>

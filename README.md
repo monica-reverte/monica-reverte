@@ -1,13 +1,25 @@
-<div align="center">
-  <img src="https://pbs.twimg.com/media/FdFdU0LXgAEDemN.png" width="300" />
-  <h1 align="left">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Monica</h1>
-  <h3 align="left">A passionate full stack, front end oriented developer. I'm eager to learn new technologies and improve my tech skills.<h3>
-<div>
+### About Me
 
-  ---
-  
-  <div align="left">
-    <h3>Last projects</h3>
+I'm Monica, a passionate full stack developer with a strong focus on front-end technologies. Eager to learn and grow, I'm constantly seeking new opportunities to enhance my tech skills and create meaningful digital experiences.
+
+### Work Experience
+
+🔭 I'm currently working as a Frontend Developer at Bewebative, where I contribute to building user-friendly interfaces for cutting-edge web applications.
+
+### Education
+
+- Assembler Institute of Technology (2022-2023)
+
+### Contact
+
+Feel free to reach out to me through the following platforms:
+
+- [LinkedIn](https://www.linkedin.com/in/monica-reverte/)
+- [Email](monicareverte24@gmail.com)
+
+### Portfolio
+
+Here are some of my notable projects:
 
      
    *  GifLand (Gifs and Memes Website) 
@@ -23,10 +35,6 @@
    *  Foodicious (Project to participate JOBarcelona Hackathon)
        - [front-end](https://github.com/monica-reverte/foodicious) 
 
-    
-  </div>
-  
-  ---
   
   
 <div align="left">
@@ -52,8 +60,6 @@
   ---
   
   ### My Stats :
-  
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=monica-reverte&show_icons=true&theme=tokyonight)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monica-reverte&hide_progress=false&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 

@@ -4,7 +4,7 @@ I'm Monica, a passionate full stack developer with a strong focus on front-end t
 
 ### Work Experience
 
-🔭 I'm currently working as a Frontend Developer at Bewebative, where I contribute to building user-friendly interfaces for cutting-edge web applications.
+🔭 I'm currently working as a Frontend Developer at Bewebative.
 
 ### Education
 

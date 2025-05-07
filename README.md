@@ -4,7 +4,7 @@ I'm Monica, a passionate full stack developer with a strong focus on front-end t
 
 ### Work Experience
 
-🔭 I'm currently working as a Frontend Developer at Bewebative.
+🔭 I'm currently working as a Frontend Developer at wheelhub.
 
 ### Education
 
@@ -17,25 +17,6 @@ Feel free to reach out to me through the following platforms:
 - [LinkedIn](https://www.linkedin.com/in/monica-reverte/)
 - [Email](monicareverte24@gmail.com)
 
-### Portfolio
-
-Here are some of my notable projects:
-
-     
-   *  GifLand (Gifs and Memes Website) 
-       * [front-end](https://github.com/monica-reverte/GifLand-Frontend)
-       * [back-end](https://github.com/monica-reverte/GifLand-Backend)
-   
-   *  Spop (Spotify Clone) 
-       * [front-end](https://github.com/EdgarArcos/Spop-Spotify-)
-       * [back-end](https://github.com/EdgarArcos/Spop-Spotify-Backend)
-   *  WishList (todo-list)
-       * [front-end](https://github.com/monica-reverte/reactjs-wish-list) 
-       * [back-end](https://github.com/monica-reverte/wish-list-backend)     
-   *  Foodicious (Project to participate JOBarcelona Hackathon)
-       - [front-end](https://github.com/monica-reverte/foodicious) 
-
-  
   
 <div align="left">
   <h3>Languagues and Technologies</h3>
@@ -59,10 +40,6 @@ Here are some of my notable projects:
   
   ---
   
-  ### My Stats :
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monica-reverte&hide_progress=false&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 <!--
